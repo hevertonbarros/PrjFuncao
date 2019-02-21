@@ -24,7 +24,7 @@ include_once "funcoesDeTeste.php";
             
             $umCarro = new car();
             $umCarro->mostrarCarro();
-            $umCarro->setValor(12.3);
+            $umCarro->setValor(12.4);
             $umCarro->mostrarCarro();
             
         ?>
